@@ -16,3 +16,5 @@ finalizando con GitHub
 
 15/08/23: we returned in a new subject "scientific method", here we finished to see git hub and will proceed to mysql
 today: we work whit GIT PULL
+
+additional lines
